@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-🙏, I'm Vishal KASA.  
+🙏, I'm Vishal Kasa.  
 ## React Native Developer 👨‍💻
 
 [![](https://img.shields.io/badge/Gmail-vishalkumavat23@gmail.com-red)](mailto:vishalkumavat23@gmail.com)
